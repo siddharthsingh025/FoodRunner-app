@@ -1,5 +1,5 @@
 # FoodRunner Andriod app :  :               
-### *Done During Internshala Training ( Final Assigment )*
+### *Done During Internshala Training ( Final Assignment )*
 ## Its a food ordering app Model :         using Kotlin , XML , SQLite  Database , API provided by Internshala .
 
 ### In this Project I have learned about the following topics listed below: 
