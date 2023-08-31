@@ -1,19 +1,14 @@
 # FoodRunner Andriod app :  :               
 ### *Done During Internshala Training ( Final Assignment )*
-## Its a food ordering app Model :         using Kotlin , XML , SQLite  Database , API provided by Internshala .
+It's a Native  Android Application Written in Kotlin that follow MVC Architecture .Its a food Ordering App that will show you list of restaurants and allows you to add food into your cart and at the end it will generate invoice for you and acknowledgement of success will appeared. Actually , I have  developed this project  during an online 8 week course of InternShala where I used their API for fetching data of restaurant and another API for User Authentication . It's a modular code where different adapters are designed for different Recycler views and separate Models and Functions to handle these model and database are defined .Example :  Order , RestaurantList , FoodItem .Room Database is used for storing data into localSystem of android .Volley library is used for network calls for fetching data and posting data from/to the server (API) .
 
-### In this Project I have learned about the following topics listed below: 
- 
-   >1. Different types of Layouts
-   >2. Various widgets
-   >3. Intents and Shared Preferences
-   >4. Navigation drawer
-   >5. Fragments
-   >6. Recycler View
-   >7. Fetching/Sending data from/to Internet
-   >8. SQLite Database
-   >9.Fetch the JSON data from the server
->
+### what I learned doing this :
+1.  Kotlin , XML 
+2.  SQLite Database 
+3.  API Integration 
+4.  Room Database
+5.  Recycler View / Adapter implementation 
+6.  Coroutine / Multiple threading 
 
 **What You see In it ??**
 
